@@ -22,14 +22,14 @@ Sou um desenvolvedor web apaixonado por criar soluções inovadoras e elegantes 
 <!-- Seção: Contato -->
 ## Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-seulinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=seulinkedinurl)](seulinkedinurl)
+[![Linkedin Badge](https://img.shields.io/badge/-seulinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=seulinkedinurl)](https://www.linkedin.com/in/samuel-morais-garcia-4a823b244/)
 [![Email Badge](https://img.shields.io/badge/-seuemail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail)](mailto:seuemail)
 
 <!-- Seção: Estatísticas e gráficos -->
 ## Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_username&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelMorais030202&show_icons=true&theme=radical)
 
 ### Idiomas mais usados
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMorais030202&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
