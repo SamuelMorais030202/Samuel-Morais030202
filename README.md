@@ -1,5 +1,5 @@
 <!-- Seção: Introdução -->
-# Olá, eu sou o (seu nome)!
+# Olá, eu sou o Samuel Morais Garcia!
 
 <img align="right" width="200" height="200" src="https://c.tenor.com/M54OJrV7Zu8AAAAC/programmer.gif">
 
