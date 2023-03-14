@@ -3,6 +3,11 @@
 
 <img align="right" width="200" height="200" src="https://c.tenor.com/M54OJrV7Zu8AAAAC/programmer.gif">
 
+<!-- Seção: Estatísticas e gráficos -->
+## Estatísticas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelMorais030202&show_icons=true&theme=radical)
+
 Sou um desenvolvedor web apaixonado por criar soluções inovadoras e elegantes para problemas complexos. Tenho (número de anos) de experiência em desenvolvimento web e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 <!-- Seção: Habilidades -->
@@ -24,11 +29,6 @@ Sou um desenvolvedor web apaixonado por criar soluções inovadoras e elegantes 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=seulinkedinurl)](https://www.linkedin.com/in/samuel-morais-garcia-4a823b244/)
 [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail)](mailto:moraissamuel009@gmail.com)
-
-<!-- Seção: Estatísticas e gráficos -->
-## Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelMorais030202&show_icons=true&theme=radical)
 
 ### Idiomas mais usados
 
