@@ -22,8 +22,8 @@ Sou um desenvolvedor web apaixonado por criar soluções inovadoras e elegantes 
 <!-- Seção: Contato -->
 ## Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-seulinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=seulinkedinurl)](https://www.linkedin.com/in/samuel-morais-garcia-4a823b244/)
-[![Email Badge](https://img.shields.io/badge/-seuemail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail)](mailto:moraissamuel009@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=seulinkedinurl)](https://www.linkedin.com/in/samuel-morais-garcia-4a823b244/)
+[![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail)](mailto:moraissamuel009@gmail.com)
 
 <!-- Seção: Estatísticas e gráficos -->
 ## Estatísticas
