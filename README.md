@@ -59,9 +59,10 @@ Aqui estão alguns projetos em que trabalhei recentemente:
 
 Você pode me encontrar em:
 
-- [![Linkedin Badge](https://www.linkedin.com/in/samuel-morais-garcia-4a823b244/)]
+<!-- - [![Linkedin Badge](https://www.linkedin.com/in/samuel-morais-garcia-4a823b244/)] -->
 - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=seulinkedinurl)](https://www.linkedin.com/in/samuel-morais-garcia-4a823b244/)
-- E-mail: moraissamuel009@gmail.com
+<!-- - E-mail: moraissamuel009@gmail.com -->
+-[![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail)](mailto:moraissamuel009@gmail.com)
 
 ### Idiomas mais usados
 
