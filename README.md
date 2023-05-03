@@ -12,6 +12,7 @@ Sou um desenvolvedor web apaixonado por criar soluções inovadoras e elegantes 
 ## Estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelMorais030202&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMorais030202&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SamuelMorais030202&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Seção: Habilidades -->
@@ -64,7 +65,3 @@ Você pode me encontrar em:
 - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=seulinkedinurl)](https://www.linkedin.com/in/samuel-morais-garcia-4a823b244/)
 - [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail)](mailto:moraissamuel009@gmail.com)
 <!-- - E-mail: moraissamuel009@gmail.com -->
-
-### Idiomas mais usados
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMorais030202&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
