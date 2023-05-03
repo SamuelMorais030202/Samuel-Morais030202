@@ -27,14 +27,19 @@ Tenho habilidades nas seguintes áreas:
 </p>
 
 ### Back-end
-- <i class="fab fa-node-js"></i> Node.js
-- <i class="fas fa-database"></i> MySQL
-- <i class="fab fa-docker"></i> Docker
+<p align="left">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" />
+</p>
 
 ### Ferramentas
-- <i class="fab fa-git"></i> Git
-- <i class="fab fa-github"></i> GitHub
-- <i class="fas fa-code"></i> VS Code
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="VS Code" />
+</p>
 
 <!-- Seção: Projetos destacados -->
 ## Projetos destacados
