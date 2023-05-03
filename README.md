@@ -19,7 +19,7 @@ Sou um desenvolvedor web apaixonado por criar soluções inovadoras e elegantes 
 Tenho habilidades nas seguintes áreas:
 
 ### Front-end
-- <i class="fab fa-html5"></i>
+- <i class="fab fa-html5">HTML</i>
 - CSS3
 - JavaScript
 - React
