@@ -19,10 +19,12 @@ Sou um desenvolvedor web apaixonado por criar soluções inovadoras e elegantes 
 Tenho habilidades nas seguintes áreas:
 
 ### Front-end
-- <i class="fab fa-html5"></i>HTML
-- <i class="fab fa-css3-alt"></i> CSS3
-- <i class="fab fa-js-square"></i> JavaScript
-- ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" alt="React" />
+</p>
 
 ### Back-end
 - <i class="fab fa-node-js"></i> Node.js
