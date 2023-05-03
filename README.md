@@ -54,6 +54,7 @@ Aqui estão alguns projetos em que trabalhei recentemente:
 
 ### App de Receitas
 - O App de Receitas é uma aplicação web em que trabalhei junto com um time de desenvolvimento. Nele, você pode pesquisar por receitas de drinks e comidas e tem acesso ao passo a passo para criar suas receitas. Nesse projeto, utilizamos as seguintes tecnologias: React, API Context para gerenciamento de estado, CSS, Git, GitHub, Trello e Zoom.
+- ![App de Receitas Screenshot](app-de-receitas-screenshot.png)
 
 ## Contato
 
