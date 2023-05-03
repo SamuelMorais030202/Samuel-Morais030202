@@ -12,6 +12,7 @@ Sou um desenvolvedor web apaixonado por criar soluções inovadoras e elegantes 
 ## Estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelMorais030202&show_icons=true&theme=radical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SamuelMorais030202&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Seção: Habilidades -->
 ## Habilidades
