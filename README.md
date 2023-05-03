@@ -19,21 +19,20 @@ Sou um desenvolvedor web apaixonado por criar soluções inovadoras e elegantes 
 Tenho habilidades nas seguintes áreas:
 
 ### Front-end
-- <i class="fab fa-html5">HTML</i>
-- CSS3
-- JavaScript
-- React
+- <i class="fab fa-html5"></i>HTML
+- <i class="fab fa-css3-alt"></i> CSS3
+- <i class="fab fa-js-square"></i> JavaScript
+- <i class="fab fa-react"></i> React
 
 ### Back-end
-- Node.js
-- Express
-- MySQL
-- Docker
+- <i class="fab fa-node-js"></i> Node.js
+- <i class="fas fa-database"></i> MySQL
+- <i class="fab fa-docker"></i> Docker
 
 ### Ferramentas
-- Git
-- GitHub
-- VS Code
+- <i class="fab fa-git"></i> Git
+- <i class="fab fa-github"></i> GitHub
+- <i class="fas fa-code"></i> VS Code
 
 <!-- Seção: Projetos destacados -->
 ## Projetos destacados
