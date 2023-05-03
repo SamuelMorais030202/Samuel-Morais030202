@@ -1,5 +1,4 @@
 <!-- Seção: Introdução -->
-<img src="https://img.freepik.com/vetores-premium/conceito-de-icone-de-tecnologia-da-informacao-empresarial-por-uma-engrenagem-da-roda-dentada-e-a-ligacao-da-tecnologia-na-luz-de-fundo-azul_73749-721.jpg" alt="Ícone de tecnologia da informação empresarial">
 # Olá, eu sou o Samuel Morais Garcia!
 
 <img align="right" width="200" height="200" src="https://c.tenor.com/M54OJrV7Zu8AAAAC/programmer.gif">
