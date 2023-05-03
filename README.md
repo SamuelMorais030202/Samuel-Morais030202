@@ -22,7 +22,7 @@ Tenho habilidades nas seguintes áreas:
 - <i class="fab fa-html5"></i>HTML
 - <i class="fab fa-css3-alt"></i> CSS3
 - <i class="fab fa-js-square"></i> JavaScript
-- <i class="fab fa-react"></i> React
+- ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 
 ### Back-end
 - <i class="fab fa-node-js"></i> Node.js
