@@ -8,21 +8,20 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelMorais030202&show_icons=true&theme=radical)
 
-Sou um desenvolvedor web apaixonado por criar soluções inovadoras e elegantes para problemas complexos. Tenho (número de anos) de experiência em desenvolvimento web e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
-
+Sou um desenvolvedor web apaixonado por criar soluções inovadoras e elegantes para problemas complexos. Tenho 1 ano de experiência em desenvolvimento web e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidade.
 <!-- Seção: Habilidades -->
 ## Habilidades
 
-- **Front-end:** HTML5, CSS3, JavaScript, React, Vue, Angular
-- **Back-end:** Node.js, Express, MySQL, MongoDB
-- **Ferramentas:** Git, GitHub, VS Code, Postman, JIRA
+- **Front-end:** HTML5, CSS3, JavaScript, React
+- **Back-end:** Node.js, Express, MySQL, Docker
+- **Ferramentas:** Git, GitHub, VS Code
 
 <!-- Seção: Projetos destacados -->
 ## Projetos destacados
 
-- (Nome do projeto 1) - Descrição breve do projeto e tecnologias usadas
-- (Nome do projeto 2) - Descrição breve do projeto e tecnologias usadas
-- (Nome do projeto 3) - Descrição breve do projeto e tecnologias usadas
+- Online Store - O projeto Online Store é uma loja online onde o usuário pode buscar por um produto adicionar ao carrinho e finalizar a compra. Esse projeto foi desenvolvido em grupo e utilizamos, o React,JavaScript, CSS, VsCode, git, gitHub, trello e o zoom.
+- Trybe Tunes - O trybe tunes é um projeto onde você pode buscar por álbuns e artitas, escutar suas músicas, você tambem pode favoritar e desfavoritar músicas. Esse projeto foi desenvolvido durante a minha tragetória na trybe e utilizei o React para crialo.
+- App de Receitas - o App de receitas foi uma aplicação web onde trabalhei junto com um time de desenvolvimento, nele você pode pesquisar por receitas de drinks e comidas, você tem o paso a paso para criar suas receitas. Nesse projeto utilizamos o React, fizemos o gerenciamento do estado com com o API context, usamos CSS, git, gitHub, trello e o zoom.
 
 <!-- Seção: Contato -->
 ## Contato
