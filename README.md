@@ -64,4 +64,5 @@ Você pode me encontrar em:
 <!-- - [![Linkedin Badge](https://www.linkedin.com/in/samuel-morais-garcia-4a823b244/)] -->
 - [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=seulinkedinurl)](https://www.linkedin.com/in/samuel-morais-garcia-4a823b244/)
 - [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail)](mailto:moraissamuel009@gmail.com)
+- [<img src="https://img.icons8.com/color/48/000000/whatsapp.png"/> Whatsapp](https://wa.me/<38988449448>?text=<mensagem>)
 <!-- - E-mail: moraissamuel009@gmail.com -->
