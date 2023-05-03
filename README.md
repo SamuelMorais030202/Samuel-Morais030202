@@ -1,9 +1,4 @@
 <!-- Seção: Introdução -->
-<div style="background-image: url(https://www.alura.com.br/artigos/assets/react-conheca-novidades-versao-18-react/react-conheca-novidades-versao-18-react.png); background-size: cover; background-position: center;">
-
-# Olá, eu sou o Samuel Morais Garcia!
-
-</div>
 # Olá, eu sou o Samuel Morais Garcia!
 
 <img align="right" width="200" height="200" src="https://c.tenor.com/M54OJrV7Zu8AAAAC/programmer.gif">
