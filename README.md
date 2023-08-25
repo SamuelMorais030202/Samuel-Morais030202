@@ -30,6 +30,8 @@ Tenho habilidades nas seguintes áreas:
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat" alt="Jest" />
+  <img src="https://img.shields.io/badge/-React_Testing_Library-E33332?logo=testing-library&logoColor=white&style=flat" alt="React Testing Library" />
 </p>
 
 ### Back-end
