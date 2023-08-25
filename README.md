@@ -43,6 +43,7 @@ Tenho habilidades nas seguintes áreas:
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat" alt="Sequelize" />
   <img src="https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=flat" alt="JWT" />
+  <img src="https://img.shields.io/badge/-Prisma-1B222D?logo=prisma&logoColor=white&style=flat" alt="Prisma" />
 </p>
 
 ### Ferramentas
