@@ -40,6 +40,9 @@ Tenho habilidades nas seguintes áreas:
   <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat" alt="Express.js" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat" alt="Sequelize" />
+  <img src="https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=flat" alt="JWT" />
 </p>
 
 ### Ferramentas
