@@ -51,6 +51,9 @@ Tenho habilidades nas seguintes áreas:
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat" alt="Slack" />
+  <img src="https://img.shields.io/badge/-Zoom-2D8CFF?logo=zoom&logoColor=white&style=flat" alt="Zoom" />
+  <img src="https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=flat" alt="Trello" />
 </p>
 
 <!-- Seção: Projetos destacados -->
